@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I write and teach a lot of JavaScript/TypeScript. You can also find me on twitter 🌹
+
+[![Follow on Twitter](https://img.shields.io/twitter/follow/basarat?style=social&logo=twitter)](https://twitter.com/basarat)
+
+## Github Achievements 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=basarat&rank=SSS)
+
+
 <!--
 **basarat/basarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
