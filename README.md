@@ -4,7 +4,7 @@ I write [and teach](https://youtube.com/c/basaratali) a lot of JavaScript/TypeSc
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/basarat?style=social&logo=twitter)](https://twitter.com/basarat)
 
-## Github Achievements 
+## GitHub Achievements 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=basarat&rank=SSS)
 
