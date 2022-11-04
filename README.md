@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I write [and teach](https://youtube.com/c/basaratali) a lot of JavaScript/TypeScript. You can also find me on twitter 🌹
+I write [and teach](https://youtube.com/@basarat) a lot of JavaScript/TypeScript. You can also find me on twitter 🌹
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGD_0i6L48hucTiiyhb5QzQ?style=social)](https://www.youtube.com/@basarat)
 
