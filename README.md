@@ -5,9 +5,6 @@ I write [and teach](https://youtube.com/@basarat) a lot of JavaScript/TypeScript
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGD_0i6L48hucTiiyhb5QzQ?style=social)](https://www.youtube.com/@basarat)
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/basarat?style=social&logo=twitter)](https://twitter.com/basarat)
-## GitHub Achievements 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=basarat&rank=SSS)
 
 
 <!--
